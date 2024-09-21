@@ -2,7 +2,7 @@
 
 This is a test program to demonstrate using GitHub, Visual Studio Code, and Python. The purpose is to prepare for future projects with more in-depth code by practicing setting up everything I need to publish them in a professional manner.
 
-A link to a video demonstrating this can be found here: [Software Demo Video](http://youtube.link.goes.here)
+A link to a video demonstrating this can be found here: [Software Demo Video](https://youtu.be/OopcVTPMAIY)
 
 # Development Environment
 
